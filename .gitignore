@@ -1,0 +1,22 @@
+# Visual Studio / MSVC build output
+.vs/
+Debug/
+Release/
+x64/
+x86/
+*.obj
+*.exe
+*.pdb
+*.ilk
+*.suo
+*.user
+*.aps
+*.log
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+
+# vcpkg local install
+vcpkg_installed/
