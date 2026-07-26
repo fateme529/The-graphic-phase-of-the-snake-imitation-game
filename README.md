@@ -1,5 +1,10 @@
 # The graphic phase of the snake imitation game
 
+![Language](https://img.shields.io/badge/language-C%2B%2B-blue)
+![Graphics](https://img.shields.io/badge/graphics-SFML-8CC445)
+![Platform](https://img.shields.io/badge/platform-Windows-0078D6)
+![License](https://img.shields.io/badge/license-MIT-green)
+
 A graphical (SFML-based) follow-up to [Imitation of a Snake](https://github.com/fateme529/Imitation-of-a-snake),
 a memory/maze puzzle inspired by the classic Snake game. The core game rules are the
 same as the console version — only the rendering moved from a text console to a real
@@ -20,7 +25,9 @@ same holes, row by row, using the keys below.
   memorized path.
 
 A recorded demo is included:
-[`Test.mp4`](<The graphic phase of the snake imitation game/Test.mp4>).
+[`Test.mp4`](<The graphic phase of the snake imitation game/Test.mp4>)
+(it's a 2 MB video, too large for GitHub to preview inline — click **Raw** on that page
+or clone the repo to watch it).
 
 ## Controls
 
